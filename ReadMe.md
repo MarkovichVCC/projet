@@ -10,3 +10,7 @@ Ajouter :
 
 On peut récupèrer du code fonctionnel sur internet
  -> CodePen, W3School, GitHub, GetBootstrap, etc...
+
+Projet TP
+
+Ajouter : un formulaire de contact, un bloc à propos, un bloc équipe
